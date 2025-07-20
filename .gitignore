@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+venv/
+.myvenv/
+ENV/
+env/
+myvenv/
+*.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# Python egg metadata
+*.egg-info/
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+eggs/
+*.egg
+*.whl
+pip-wheel-metadata/
+
+# Logs
+*.log
+
+# SQLite database
+*.sqlite3
+
+# Machine Learning model files
+*.pkl
+*.joblib
+*.h5
+
+# IDE/editor settings
+.idea/
+*.swp
+.DS_Store
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
